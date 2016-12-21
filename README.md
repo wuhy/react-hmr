@@ -1,7 +1,7 @@
 react-hmr
 ======
 
-[![Build Status](https://travis-ci.org/wuhy/react-hmr.svg?branch=master)](https://travis-ci.org/wuhy/react-hmr) [![Dependency Status](https://david-dm.org/wuhy/react-hmr.svg)](https://david-dm.org/wuhy/react-hmr) [![devDependency Status](https://david-dm.org/wuhy/react-hmr/dev-status.svg)](https://david-dm.org/wuhy/react-hmr#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/react-hmr.svg?style=flat)](https://npmjs.org/package/react-hmr)
+[![Dependency Status](https://david-dm.org/wuhy/react-hmr.svg)](https://david-dm.org/wuhy/react-hmr) [![devDependency Status](https://david-dm.org/wuhy/react-hmr/dev-status.svg)](https://david-dm.org/wuhy/react-hmr#info=devDependencies) [![NPM Version](https://img.shields.io/npm/v/react-hmr.svg?style=flat)](https://npmjs.org/package/react-hmr)
 
 > The AMD wrapper of react-hot-loader@next for react HMR
 
@@ -45,7 +45,7 @@ npm install react-hmr --save-dev
 
 * PROD ENV
     
-Like `DEV ENV`, except for preload `dist/react-hot-loader.prod.js` or `dist/react-hot-loader.prod.min.js` compress version.
+    Like `DEV ENV`, except for preload `dist/react-hot-loader.prod.js` or `dist/react-hot-loader.prod.min.js` compress version.
       
 ### Reference
 
