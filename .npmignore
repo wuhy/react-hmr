@@ -8,3 +8,4 @@ Thumbs.db
 *.swp
 *.bat
 lib/
+yarn.lock
