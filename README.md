@@ -31,7 +31,6 @@ npm install react-hmr --save-dev
         import ReactDOM from 'react-dom';
         import App from './App';
         
-        
         const store = {
             name: 'react'
         };
